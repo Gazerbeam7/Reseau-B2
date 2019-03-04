@@ -10,4 +10,4 @@ Combien y a t-il d'adresses dans un /30 ?
     Il y a 4 adresses possibles donc 2 disponibles en enlevant les adresses de reseau 
     et de broadcast, l'avantage sera la sécurité car avec seulement 2 adresses, une fois prises, 
     personne ne peut s'introduire dans ce réseau.
-    
+     
